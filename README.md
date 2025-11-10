@@ -1,7 +1,5 @@
 # XDR Story Parser - Process Tree Visualizer
 
-![XDR Story Parser logo](images/logo.png)
-
 [<img src="images/logo.png">](https://immunit.github.io/XDRStoryParser/)
 The XDR Story Parser helps you to parse attack stories from Microsoft Defender XDR and further work with them outside of the XDR portal.
 
