@@ -2,6 +2,7 @@
 
 ![XDR Story Parser logo](images/logo.png)
 
+[<img src="images/logo.png"](https://immunit.github.io/XDRStoryParser/)
 The XDR Story Parser helps you to parse attack stories from Microsoft Defender XDR and further work with them outside of the XDR portal.
 
 XDR alert stories are a special JSON format that Microsofts uses in the Defender XDR portal to display a process tree and the alert timeline like this.
@@ -25,8 +26,7 @@ XDR alert stories are a special JSON format that Microsofts uses in the Defender
 ![A gif that shows how to extract the attack story from Defender XDR as JSON](images/ExtractStoryFromXDR.gif)
 
 ## Work with XDR Story Parser
-
-You can either clone the [GitHub repository](https://github.com/f-bader/XDRStoryParser) and open the index.html directly in your browser, or you can visit the repos [GitHub Pages](https://f-bader.github.io/XDRStoryParser/).
+Open the URL: https://immunit.github.io/XDRStoryParser/
 
 ### Redact sensitive information
 
