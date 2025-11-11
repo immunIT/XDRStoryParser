@@ -25,6 +25,8 @@ XDR alert stories are a special JSON format that Microsofts uses in the Defender
 
 ## Work with XDR Story Parser
 Open the URL: https://immunit.github.io/XDRStoryParser/
+THis url has been configured as a github page in this repository setting to be renderded as a website by github.
+See Settings > Pages
 
 ### Redact sensitive information
 
